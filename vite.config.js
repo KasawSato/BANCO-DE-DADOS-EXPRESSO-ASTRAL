@@ -50,6 +50,7 @@ function protecaoPorSenha({ usuario, senha }) {
 }
 
 export default defineConfig({
+  base: './',        // o build funciona em qualquer endereço ou subpasta
   plugins: [protecaoPorSenha(lerAcesso())],
   server: {
     host: true,        // escuta em 0.0.0.0 (rede local e túnel)
