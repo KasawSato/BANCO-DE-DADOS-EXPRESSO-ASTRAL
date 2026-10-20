@@ -51,7 +51,7 @@ npm run senha -- 'nova senha'     # PowerShell: use aspas simples
 
 Tudo o que estiver em `public/conteudo/arquivo.json` é carregado ao abrir a página. Para atualizá-lo:
 
-1. `npm run dev`, abra `http://localhost:5173`, entre em modo editor e crie/edite as publicações.
+1. `npm run dev`, abra `http://localhost:`, entre em modo editor e crie/edite as publicações.
 2. Clique em **Exportar** (baixa `arquivo_modular_expresso.json`).
 3. Renomeie para `arquivo.json` e substitua o de `public/conteudo/`.
 4. Faça o commit e o push (veja abaixo). Quem abrir a página (ou atualizar com F5) recebe o conteúdo.
