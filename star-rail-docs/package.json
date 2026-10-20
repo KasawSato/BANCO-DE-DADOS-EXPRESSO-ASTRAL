@@ -1,0 +1,19 @@
+{
+  "name": "star-rail-docs",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Arquivo Modular do Expresso Astral",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "senha": "node scripts/trocar-senha.mjs"
+  },
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  },
+  "devDependencies": {
+    "vite": "^8.3.3"
+  }
+}

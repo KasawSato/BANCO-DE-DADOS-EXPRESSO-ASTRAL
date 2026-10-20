@@ -1,0 +1,30 @@
+{
+  "sessions": [
+    {
+      "id": "s1",
+      "name": "Xianzhou",
+      "description": "Registros, lore, história e campanha da Xianzhou."
+    },
+    {
+      "id": "s2",
+      "name": "Expresso Astral",
+      "description": "Tripulação, sistemas, arquivos e acontecimentos do Expresso."
+    },
+    {
+      "id": "s3",
+      "name": "Aeons & Caminhos",
+      "description": "Aeons, Caminhos, Emanators, Pathstriders e relações."
+    },
+    {
+      "id": "s4",
+      "name": "Enxame / Propagação",
+      "description": "Criaturas, eventos e ameaças da Propagação."
+    },
+    {
+      "id": "s5",
+      "name": "Campanha",
+      "description": "Conteúdo original do RPG."
+    }
+  ],
+  "posts": []
+}
